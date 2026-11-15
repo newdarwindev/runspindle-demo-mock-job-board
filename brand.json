@@ -1,0 +1,19 @@
+{
+  "id": "mock-job-board",
+  "name": "Northstar Jobs",
+  "mark": "N*",
+  "tagline": "Find your next direction.",
+  "colors": {
+    "background": "#f3efff",
+    "surface": "#ffffff",
+    "text": "#30234f",
+    "accent": "#6635a2"
+  },
+  "typography": {
+    "display": "Verdana, sans-serif",
+    "body": "Arial, sans-serif",
+    "tracking": "-.05em"
+  },
+  "style": "directory",
+  "radius": 12
+}
