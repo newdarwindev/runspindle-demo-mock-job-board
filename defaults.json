@@ -1,0 +1,16 @@
+{
+  "app": "mock-job-board",
+  "title": "Job Board \u00b7 Fictional demo",
+  "port": 4303,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "search-jobs",
+    "save-job",
+    "unsave-job",
+    "saved-jobs",
+    "choose-job"
+  ]
+}
